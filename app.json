@@ -1,0 +1,12 @@
+{
+  "name": "chatApp",
+  "displayName": "chatApp",
+  "Colors": {
+    "primary": "#0C0302",
+    "secondary": "#F9FAF9",
+    "gray": "#ABACAB",
+    "red": "#E44947",
+    "chatBoxRight": "#D8F1FF",
+    "chatBoxLeft": "#E0E2E4"
+  }
+}
